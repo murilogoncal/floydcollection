@@ -1,2 +1,2 @@
-# http://floydcollection
+# http://floydcollection.github.io
 Ouça Sem Moderação
